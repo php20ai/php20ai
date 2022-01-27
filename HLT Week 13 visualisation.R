@@ -1,0 +1,2 @@
+#using data txhousing and creating barchart where year is on x axis and number of sales on the y axis using ggplot function
+ggplot(txhousing, aes(year,sales))+geom_bar(stat="identity")+scale_fill_distiller(palette="Blues")
