@@ -1,4 +1,4 @@
 ## Hi there 👋
 
-### My name is Aliah Iqbal, I am a Mathematics Graduate who enjoys coding and I am currently doing a coding project called Diary Entry which where I want to create a website where users can store their diary entries. My hobby is walking in a sunny weather.
+### My name is Aliah Iqbal, I am a BSc Mathematics and a MSc Mathematics Graduate who enjoys coding, I have done group projects that involves creating website or applications using pragramming languages such as Javascript, HTML, CSS and SQL. I have completed courses to build my technical skills such as Software Engineering Skills bootcamp with CoGrammer and HyperionDev. My hobby is walking in a sunny weather.
 ###
