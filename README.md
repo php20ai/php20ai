@@ -1,4 +1,8 @@
 ## Hi 👋
 
-### My name is Aliah Iqbal, I am a Mathematics graduate who enjoys coding, I have done a group project that involves creating an educational game that is aimed at students in secondary schools by using programming languages such as JavaScript and SQL. I have completed courses to build my technical skills such as Software Engineering skills bootcamp with CoGrammar and HyperionDev. My hobbies includes walking in a sunny weather, watching Youtube videos and eating desserts. 
-###
+### My name is Aliah Iqbal, and I am a Mathematics graduate with a strong passion for coding. I have completed multiple courses, including the Software Engineering Bootcamp with CoGrammar and HyperionDev. As part of my training, I collaborated on group projects to develop websites using JavaScript and SQL, aimed at solving real-world problems.
+
+### One example I’m particularly proud of is an educational game that was designed for secondary school students. The goal of the game was to help students develop a solid understanding of humanities subjects such as History and Geography in an engaging and interactive way.
+
+### In my free time, I enjoy walking in sunny weather, watching YouTube videos, and treating myself to desserts.
+
